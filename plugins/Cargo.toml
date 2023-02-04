@@ -37,5 +37,5 @@ bytes = "1.1.0"
 recently-used-xbel = "1.0.0"
 
 [dependencies.tokio]
-version = "1.17.0"
+version = "1.18.5"
 features = ["fs", "io-std", "macros", "process", "rt"]
